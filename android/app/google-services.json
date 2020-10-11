@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1039530744320",
+    "firebase_url": "https://kori-test-1.firebaseio.com",
+    "project_id": "kori-test-1",
+    "storage_bucket": "kori-test-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039530744320:android:92307bd8024b94c216d6e5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039530744320-j47rqn7cgdhk4mic0pejml66bmt89193.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWnPbG-6lJ0JHLb7Tzwx4yPnt-R2lzzkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039530744320-j47rqn7cgdhk4mic0pejml66bmt89193.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
